@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+    direction: rtl;
+    font-family: vazirmatn;
+}
+.header{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 120px;
+}
+.body{
+    background-color: #a1a1a1;
+    color: rgb(20, 19, 19);
+   
+    padding: 250px;
+}
+.body >h2{
+    text-align: center;
+}
+.footer{
+    background-color:aquamarine ;
+    text-align: center;
+    padding: 120px;
+}
+menu>a{
+padding-left: 10px;
+padding-right: 10px;
+}
+.body >img{
+    float: ;
+    height:400px ;
+    width: 300px ;
+    padding: 10px;
+}
+.flex-container{
+    display: flex;
+    background-color: #a4a5;
+    
+
+}
+.flex-container > div{
+    background-color: #e5e5e5;
+    margin: 15px;
+    padding: 30px;
+    font-size: 18px;
+}
